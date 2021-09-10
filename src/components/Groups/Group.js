@@ -12,7 +12,7 @@ const Group = (props) => {
 
   return (
     <NavLink className="links p-3 min-h-5 group" to={`/sports/${slug}`}>
-      <h2 className="text-end no-select fw-bold">{name.toUpperCase()}</h2>
+      <h2 className="text-end no-select fw-bold">{ name ? name.toUpperCase() : '' }</h2>
       <p className="text-end no-select">{`${number} sports`}</p>
     </NavLink>
   );

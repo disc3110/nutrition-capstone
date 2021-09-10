@@ -7,7 +7,7 @@
 You can see my page live [here](https://disc3110.github.io/sports-capstone)
 
 # Video Description
-[video link](https://www.loom.com/share/950c3f25083c46a9baa828693228f1ed?sharedAppSource=personal_library)
+[video link](https://www.loom.com/share/5facbdf2c8c142449d960af2b4708784)
 
 # Screenshots
 ![screenshot](screenshot.png)
@@ -57,6 +57,9 @@ Feel free to check the [issues page](https://github.com/disc3110/sports-capstone
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+This project was made fllowing [Nelson Sakwa](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) design
 
 ## 📝 License
 

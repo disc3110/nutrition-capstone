@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check if all components are rendered renders correctly 1`] = `
+<div
+  className="d-flex list-item"
+>
+  <p
+    className="mx-4"
+  />
+  <img
+    alt=""
+    className="icon text-end"
+  />
+</div>
+`;
