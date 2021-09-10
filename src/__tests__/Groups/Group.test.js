@@ -6,7 +6,7 @@ import {
   HashRouter as Router,
 } from 'react-router-dom';
 import Group from '../../components/Groups/Group';
-import store from '../../redux/configureStore';
+import store from '../../Redux/configureStore';
 
 describe('Check if all components are rendered', () => {
   it('renders correctly', () => {

@@ -3,7 +3,7 @@
 :root {
   --blue: #4369b2;
   --darker-blue: #3760ae;
-  --lighter-blue:#5a8ae3;
+  --lighter-blue: #5a8ae3;
 }
 
 * {
@@ -27,7 +27,7 @@ body {
 .subtitle {
   background-color: var(--darker-blue);
   padding: 0 2.5rem;
-  font-size: .9rem;
+  font-size: 0.9rem;
 }
 
 h1,

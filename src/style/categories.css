@@ -4,11 +4,11 @@
 }
 
 .list-item {
-  padding: .5rem;
+  padding: 0.5rem;
   height: 8rem;
   align-items: center;
 }
 
 .list-item:nth-child(2n) {
-  background-color: var(--darker-blue)
+  background-color: var(--darker-blue);
 }

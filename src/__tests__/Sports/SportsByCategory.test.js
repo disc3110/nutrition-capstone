@@ -3,7 +3,7 @@ import '@testing-library/jest-dom';
 import { Provider } from 'react-redux';
 import renderer from 'react-test-renderer';
 import Sports from '../../components/SportsByCategory';
-import store from '../../redux/configureStore';
+import store from '../../Redux/configureStore';
 
 describe('Check if all components are rendered', () => {
   it('renders correctly', () => {

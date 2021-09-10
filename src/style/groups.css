@@ -2,7 +2,8 @@
   width: 50%;
 }
 
-.group:nth-child(4n+1), .group:nth-child(4n+2) {
+.group:nth-child(4n+1),
+.group:nth-child(4n+2) {
   background-color: var(--darker-blue);
 }
 
