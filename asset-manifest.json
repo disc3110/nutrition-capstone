@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/sports-capstone/static/css/main.df272eec.chunk.css",
-    "main.js": "/sports-capstone/static/js/main.63f7118d.chunk.js",
-    "main.js.map": "/sports-capstone/static/js/main.63f7118d.chunk.js.map",
+    "main.js": "/sports-capstone/static/js/main.a21911ce.chunk.js",
+    "main.js.map": "/sports-capstone/static/js/main.a21911ce.chunk.js.map",
     "runtime-main.js": "/sports-capstone/static/js/runtime-main.a9215209.js",
     "runtime-main.js.map": "/sports-capstone/static/js/runtime-main.a9215209.js.map",
-    "static/js/2.214b358a.chunk.js": "/sports-capstone/static/js/2.214b358a.chunk.js",
-    "static/js/2.214b358a.chunk.js.map": "/sports-capstone/static/js/2.214b358a.chunk.js.map",
+    "static/js/2.f2d2d46f.chunk.js": "/sports-capstone/static/js/2.f2d2d46f.chunk.js",
+    "static/js/2.f2d2d46f.chunk.js.map": "/sports-capstone/static/js/2.f2d2d46f.chunk.js.map",
     "index.html": "/sports-capstone/index.html",
     "static/css/main.df272eec.chunk.css.map": "/sports-capstone/static/css/main.df272eec.chunk.css.map",
-    "static/js/2.214b358a.chunk.js.LICENSE.txt": "/sports-capstone/static/js/2.214b358a.chunk.js.LICENSE.txt",
+    "static/js/2.f2d2d46f.chunk.js.LICENSE.txt": "/sports-capstone/static/js/2.f2d2d46f.chunk.js.LICENSE.txt",
     "static/media/Decathlon_Group-Logo.wine.29c32464.svg": "/sports-capstone/static/media/Decathlon_Group-Logo.wine.29c32464.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a9215209.js",
-    "static/js/2.214b358a.chunk.js",
+    "static/js/2.f2d2d46f.chunk.js",
     "static/css/main.df272eec.chunk.css",
-    "static/js/main.63f7118d.chunk.js"
+    "static/js/main.a21911ce.chunk.js"
   ]
 }
