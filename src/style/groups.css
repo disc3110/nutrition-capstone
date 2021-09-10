@@ -1,0 +1,20 @@
+.group {
+  width: 50%;
+}
+
+.group:nth-child(4n+1), .group:nth-child(4n+2) {
+  background-color: var(--darker-blue);
+}
+
+.group:first-child {
+  width: 100%;
+  background-color: var(--lighter-blue);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.min-h-5 {
+  min-height: 10rem;
+}
