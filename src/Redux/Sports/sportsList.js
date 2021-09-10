@@ -4,7 +4,7 @@ import axios from 'axios';
 
 export const fetchSports = createAsyncThunk('sports/fetchSports', async () => {
   const response = await axios.get('https://sports.api.decathlon.com/sports');
-  return response.data.data ;
+  return response.data.data;
 });
 
 export const sportsListSlice = createSlice({
@@ -24,4 +24,4 @@ export const sportsListSlice = createSlice({
   },
 });
 
-export default sportsListSlice.reducer
+export default sportsListSlice.reducer;

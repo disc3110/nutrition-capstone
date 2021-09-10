@@ -3,7 +3,7 @@ import {
 } from 'redux';
 import thunk from 'redux-thunk';
 import groups from './Sports/groups';
-import sports from './Sports/sportsList'
+import sports from './Sports/sportsList';
 
 const reducer = combineReducers({
   // additional reducers could be added here

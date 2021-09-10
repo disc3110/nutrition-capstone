@@ -1,9 +1,9 @@
-import Groups from '../components/Groups/Groups'
+import Groups from '../components/Groups/Groups';
 
 const Home = () => (
   <div>
     <Groups />
   </div>
-)
+);
 
-export default Home
+export default Home;

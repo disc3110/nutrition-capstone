@@ -4,7 +4,7 @@ import axios from 'axios';
 
 export const fetchGroups = createAsyncThunk('sports/fetchGroups', async () => {
   const response = await axios.get('https://sports.api.decathlon.com/groups');
-  return response.data.data ;
+  return response.data.data;
 });
 
 export const sportsGroupsSlice = createSlice({
@@ -24,4 +24,4 @@ export const sportsGroupsSlice = createSlice({
   },
 });
 
-export default sportsGroupsSlice.reducer
+export default sportsGroupsSlice.reducer;
