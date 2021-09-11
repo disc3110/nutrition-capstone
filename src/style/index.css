@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Ubuntu&display=swap');
+
+:root {
+  --blue: #4369b2;
+  --darker-blue: #3760ae;
+  --lighter-blue: #5a8ae3;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bttn {
+  background-color: var(--blue);
+  color: aliceblue;
+  border: none;
+}
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  background: var(--blue);
+  color: aliceblue;
+}
+
+.links {
+  text-decoration: none;
+  color: inherit;
+}
+
+.subtitle {
+  background-color: var(--darker-blue);
+  padding: 0 2.5rem;
+  font-size: 0.9rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Ubuntu', sans-serif;
+}

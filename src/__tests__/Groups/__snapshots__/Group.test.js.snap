@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check if all components are rendered renders correctly 1`] = `
+<a
+  aria-current={null}
+  className="links p-3 min-h-5 group"
+  href="#/sports/undefined"
+  onClick={[Function]}
+>
+  <h2
+    className="text-end no-select fw-bold"
+  >
+    
+  </h2>
+  <p
+    className="text-end no-select"
+  >
+    undefined sports
+  </p>
+</a>
+`;
