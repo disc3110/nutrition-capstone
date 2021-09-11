@@ -4,7 +4,6 @@ import {
   Route,
   HashRouter as Router,
 } from 'react-router-dom';
-import './style/app.css';
 import Home from './pages/Home';
 import Header from './components/Header';
 import NotMatch from './pages/NotMatch';

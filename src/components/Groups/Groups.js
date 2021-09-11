@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchGroups } from '../../Redux/Sports/groups';
@@ -9,6 +10,9 @@ const Groups = () => {
   const dispatch = useDispatch();
   const groups = useSelector((state) => state.groups.entities);
   const sports = useSelector((state) => state.sports.entities);
+  const filter = useSelector((state) => state.toFilter.toFilter);
+  const filteredGropus = groups.filter((group) => group.attributes.name[0] === filter);
+  const displayableGroups = filter ? filteredGropus : groups;
 
   useEffect(() => {
     if (groups.length === 0) {
@@ -29,7 +33,7 @@ const Groups = () => {
   ));
 
   return (
-    <div className="d-flex flex-wrap group-container">{renderGroups(groups)}</div>
+    <div className="d-flex flex-wrap group-container">{renderGroups(displayableGroups)}</div>
   );
 };
 
