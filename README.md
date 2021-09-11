@@ -7,7 +7,7 @@
 You can see my page live [here](https://disc3110.github.io/sports-capstone)
 
 # Video Description
-[video link](https://www.loom.com/share/5facbdf2c8c142449d960af2b4708784)
+[video link](https://www.loom.com/share/8db1b95a5fff439e8d7f2d135cb089db)
 
 # Screenshots
 ![screenshot](screenshot.png)
